@@ -1,10 +1,3 @@
-# Node.js template
-
 This is a Node.js project.
-
-Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io/p/dashboard).
-
-## Resources
-
-- [CodeSandbox — Docs](https://codesandbox.io/docs/projects)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
+Author: River Li.
+Description: The file grades_stats.mjs under folder routes is designed to show the ability of data aggregation, data indexing and schema validation. 
