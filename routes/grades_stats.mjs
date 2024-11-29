@@ -62,9 +62,9 @@ async() =>{
         }
       }
       }
-    }
+    },
+// Change the validation action to "warn."
+    validationAction: "warn"
   })
 }
-// Change the validation action to "warn."
 })
-
