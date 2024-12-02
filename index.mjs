@@ -1,7 +1,7 @@
 import express from "express";
 
-const PORT = 5050;
-//const PORT = process.env.PORT || 5050; //old
+// const PORT = 5050;
+const PORT = process.env.PORT || 5050; // 
 const app = express();
 
 import grades from "./routes/grades.mjs";
